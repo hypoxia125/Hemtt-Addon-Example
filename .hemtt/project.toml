@@ -1,0 +1,12 @@
+name = "My Mod Name"
+author = "My Name"
+prefix = "MyMod-"
+mainprefix = "x"                # can be anything. shows up as "\mainprefix\prefix\addons\COMPONENT"
+                                # in this current setup, and for this template, it will be "\x\MyMod\addons\COMPONENT"
+
+[version]                       # set to 0 to ignore git versioning
+git_hash = 0
+
+[lint.sqf]                      # allows the builder to find errors
+enabled = true
+exclude = []
