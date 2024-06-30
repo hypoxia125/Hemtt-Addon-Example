@@ -11,5 +11,5 @@ Follow the instructions/explainations in EACH of the files - starting with the "
 
 [HEMTT configuration documentation](https://brettmayson.github.io/HEMTT/configuration/index.html)
 
-### - Install HEMTT with winget
+### - Install HEMTT with winget (Preferred)
 winget install --id=BrettMayson.HEMTT  -e
